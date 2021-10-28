@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @VoidArchive
-- 👀 I’m interested in Data Science
+- 👋 Hi, I’m Anish Shrestha
+- 👀 I’m interested in Data Science and problem solving
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on open source projects.
 - 📫 How to reach me voidarchived@gmail.com
 
 <!---
