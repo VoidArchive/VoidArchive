@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Anish Shrestha
-- 👀 I’m interested in Data Science and Programming
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in Software development
+- 🌱 I’m currently learning Odoo Framework
 - 💞️ I’m looking to collaborate on open source projects.
 - 📫 How to reach me voidarchived@gmail.com
 
