@@ -1,8 +1,6 @@
 - 👋 Hi, I’m Anish Shrestha
-- 👀 I’m interested in Software development
-- 🌱 I’m currently learning Svelte
-- 💞️ I’m looking to collaborate on open source projects.
-- 📫 How to reach me voidarchived@gmail.com
+- 🌱 I’m currently learning SvelteKit with typescript
+- 📫 Contact me at voidarchived@gmail.com
 
 <!---
 VoidArchive/VoidArchive is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
