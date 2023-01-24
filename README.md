@@ -2,7 +2,7 @@
 - 🌱 I’m currently learning SvelteKit with typescript
 - 📫 Contact me at voidarchived@gmail.com
 
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/VoidArchive/VoidArchive/main/devcard.svg" width="400" alt="Anish shrestha's Dev Card"/></a>
+<img src="https://github.com/VoidArchive/VoidArchive/blob/main/devcard.svg" width="400" alt="Anish shrestha's Dev Card"/>
 
 
 <!---
