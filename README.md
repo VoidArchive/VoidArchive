@@ -1,2 +1,2 @@
-<a target="_blank" href="https://app.daily.dev/theinanish"><img src="https://github.com/VoidArchive/VoidArchive/blob/main/devcard.svg" width="400" alt="Anish shrestha's Dev Card"/>
+<a target="_blank" href="https://app.daily.dev/theinanish"><img src="https://github.com/theinanish/theinanish/blob/main/devcard.svg" width="400" alt="Anish shrestha's Dev Card"/>
 </a>
