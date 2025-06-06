@@ -1,23 +1,22 @@
-<img align="right" height="85px" width="auto" src="./go-gopher-svgrepo-com.svg">
+<img align="right" height="85px" width="auto" src="./typing-furiously.gif"
+alt="gopher-typing-furiously">
 
-# Hi, I am Anish
+# Hi
 
-Software developer building applications with Go, SvelteKit, and Postgres.
+I am a Software developer building applications with Go, SvelteKit, and Postgres.
 
 ## Current Projects
 
-**Bagchal Reforged** -  Traditional Nepali board game implementation
-**Kathmandu Shame Map** - Urban infrastructure transparency platform
-Bhetum - Event management platform
+- **Bagchal Reforged** -  Traditional Nepali board game implementation
+- **Kathmandu Shame Map** - Urban infrastructure transparency platform
+- Bhetum - Event management platform
 
 ## Stack
 
-Backend: Go, PostgreSQL
-Frontend: SvelteKit, JavaScript
-Infrastructure: Arch Linux, Hyprland, Cloudflare
-Tools: Vim, Git, Docker
+- Backend: Go, PostgreSQL
+- Frontend: SvelteKit, JavaScript
 
 ## Link
 
-[I use vim btw](https://anish.iusevimbtw.com)
-[Boot.dev profile](https://www.boot.dev/u/kshatrya)
+- [Boot.dev profile](https://www.boot.dev/u/kshatrya)
+- [I use vim btw](https://anish.iusevimbtw.com)
