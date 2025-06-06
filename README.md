@@ -1,7 +1,10 @@
 <img align="right" height="auto" width="auto" src="./typing-furiously.gif"
 alt="gopher-typing-furiously">
 
-# Hi
+<img align="right" height="auto" width="auto" src="./swimming-ocean.gif"
+alt="whale-swimming-ocean">
+
+# Hi, I am Anish
 
 I am a Software developer building applications with Go, SvelteKit, and Postgres.
 
