@@ -1,4 +1,4 @@
-<img align="right" height="85px" width="auto" src="./typing-furiously.gif"
+<img align="right" height="auto" width="auto" src="./typing-furiously.gif"
 alt="gopher-typing-furiously">
 
 # Hi
