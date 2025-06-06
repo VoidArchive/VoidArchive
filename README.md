@@ -1,10 +1,7 @@
-<img align="right" height="auto" width="auto" src="./typing-furiously.gif"
-alt="gopher-typing-furiously">
-
-<img align="right" height="auto" width="auto" src="./swimming-ocean.gif"
-alt="whale-swimming-ocean">
-
 # Hi, I am Anish
+
+<img align="right" height="auto" width="auto" src="./eyeroll.gif"
+alt="gopher-eye-role">
 
 I am a Software developer building applications with Go, SvelteKit, and Postgres.
 
