@@ -1,7 +1,7 @@
 # Hi, I'm Anish Shrestha 👋
 
 <div align="center">
-  <h3>Full-Stack Developer | Go Enthusiast | Open Source Contributor</h3>
+  <h3>Software Engineer | Building Open Source Tools</h3>
   <p>
     <a href="https://anishshrestha.com" target="_blank">
       <img src="https://img.shields.io/badge/Website-anishshrestha.com-blue?style=for-the-badge" alt="Website"/>
@@ -11,7 +11,7 @@
 
 <img align="right" height="100" width="100" src="./typing-furiously.gif" alt="gopher-eye-role">
 
-I build scalable backend systems with **Go** and modern web applications with **SvelteKit** and **PostgreSQL**. I enjoy solving complex technical challenges through hands-on projects.
+Software developer working with **Go**, **SvelteKit**, and **PostgreSQL**. I build tools that solve real problems and enjoy creating open source projects.
 
 ---
 
@@ -34,11 +34,10 @@ Experimental projects and interactive demos:
 ## Active Projects
 
 ### NTX (Featured)
->
-> Next-generation transaction processing system
+> Portfolio management TUI for NEPSE stock exchange
 
-**Tech Stack:** Go, PostgreSQL, Redis, Docker  
-**Features:** High-performance transaction handling, real-time analytics, microservices architecture
+**Tech Stack:** Go, SQLite, Bubbletea TUI, GoQuery  
+**Features:** CSV import from Meroshare, FIFO calculations, real-time price fetching, portfolio analytics
 
 ---
 
