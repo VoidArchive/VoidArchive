@@ -1,27 +1,27 @@
 # Hi, I'm Anish Shrestha 👋
 
 <div align="center">
-  <h3>🚀 Full-Stack Developer | Go Enthusiast | Open Source Contributor</h3>
+  <h3>Full-Stack Developer | Go Enthusiast | Open Source Contributor</h3>
   <p>
     <a href="https://anishshrestha.com" target="_blank">
-      <img src="https://img.shields.io/badge/🌐_Website-anishshrestha.com-blue?style=for-the-badge" alt="Website"/>
+      <img src="https://img.shields.io/badge/Website-anishshrestha.com-blue?style=for-the-badge" alt="Website"/>
     </a>
   </p>
 </div>
 
-<img align="right" height="200" width="200" src="./typing-furiously.gif" alt="gopher-eye-role">
+<img align="right" height="100" width="100" src="./typing-furiously.gif" alt="gopher-eye-role">
 
 I build scalable backend systems with **Go** and modern web applications with **SvelteKit** and **PostgreSQL**. I enjoy solving complex technical challenges through hands-on projects.
 
 ---
 
-## 🌟 Website & Labs
+## Website & Labs
 
-### 🔗 [anishshrestha.com](https://anishshrestha.com)
+### [anishshrestha.com](https://anishshrestha.com)
 
 My personal website showcasing projects, thoughts, and experiments.
 
-### 🧪 [/labs](https://anishshrestha.com/labs)
+### [/labs](https://anishshrestha.com/labs)
 
 Experimental projects and interactive demos:
 
@@ -31,9 +31,9 @@ Experimental projects and interactive demos:
 
 ---
 
-## 🚀 Active Projects
+## Active Projects
 
-### 🔥 NTX (Featured)
+### NTX (Featured)
 >
 > Next-generation transaction processing system
 
@@ -42,9 +42,9 @@ Experimental projects and interactive demos:
 
 ---
 
-## 🧪 Labs & Experiments
+## Labs & Experiments
 
-### 🎲 Bagchal Game
+### Bagchal Game
 
 **Live Demo:** [anishshrestha.com/labs/bagchal](https://anishshrestha.com/labs/bagchal)
 
@@ -56,7 +56,7 @@ Traditional Nepali strategy board game implemented with:
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Backend
 
@@ -81,24 +81,23 @@ Traditional Nepali strategy board game implemented with:
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VoidArchive&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VoidArchive&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=VoidArchive&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VoidArchive&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
 
-## 🔗 Connect & Links
+## Connect & Links
 
-- 🌐 **Website:** [anishshrestha.com](https://anishshrestha.com)
-- 🎯 **Boot.dev Profile:** [boot.dev/u/kshatrya](https://www.boot.dev/u/kshatrya)
-- 🧪 **Labs:** [anishshrestha.com/labs](https://anishshrestha.com/labs)
+- **Website:** [anishshrestha.com](https://anishshrestha.com)
+- **Boot.dev Profile:** [boot.dev/u/kshatrya](https://www.boot.dev/u/kshatrya)
+- **Labs:** [anishshrestha.com/labs](https://anishshrestha.com/labs)
 
 ---
 
 <div align="center">
   <i>"Code is poetry written in logic"</i>
 </div>
-
