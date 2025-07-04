@@ -1,7 +1,7 @@
 # Hi, I'm Anish Shrestha 👋
 
 <div align="center">
-  <h3>Software Engineer | Building Open Source Tools</h3>
+  <h3>Software Engineer | Building Developer Tools</h3>
   <p>
     <a href="https://anishshrestha.com" target="_blank">
       <img src="https://img.shields.io/badge/Website-anishshrestha.com-blue?style=for-the-badge" alt="Website"/>
@@ -11,7 +11,7 @@
 
 <img align="right" height="100" width="100" src="./typing-furiously.gif" alt="gopher-eye-role">
 
-Software developer working with **Go**, **SvelteKit**, and **PostgreSQL**. I build tools that solve real problems and enjoy creating open source projects.
+Software developer working with **Go**, **SvelteKit**, and **PostgreSQL**. I build tools that solve real problems and enjoy creating useful projects.
 
 ---
 
