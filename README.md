@@ -1,22 +1,104 @@
-# Hi, I am Anish
+# Hi, I'm Anish Shrestha 👋
 
-<img align="right" height="auto" width="auto" src="./eyeroll.gif"
-alt="gopher-eye-role">
+<div align="center">
+  <h3>🚀 Full-Stack Developer | Go Enthusiast | Open Source Contributor</h3>
+  <p>
+    <a href="https://anishshrestha.com" target="_blank">
+      <img src="https://img.shields.io/badge/🌐_Website-anishshrestha.com-blue?style=for-the-badge" alt="Website"/>
+    </a>
+  </p>
+</div>
 
-I am a Software developer building applications with Go, SvelteKit, and Postgres.
+<img align="right" height="200" width="200" src="./typing-furiously.gif" alt="gopher-eye-role">
 
-## Current Projects
+I build scalable backend systems with **Go** and modern web applications with **SvelteKit** and **PostgreSQL**. I enjoy solving complex technical challenges through hands-on projects.
 
-- **Bagchal Reforged** -  Traditional Nepali board game implementation
-- **Kathmandu Shame Map** - Urban infrastructure transparency platform
-- Bhetum - Event management platform
+---
 
-## Stack
+## 🌟 Website & Labs
 
-- Backend: Go, PostgreSQL
-- Frontend: SvelteKit, JavaScript
+### 🔗 [anishshrestha.com](https://anishshrestha.com)
 
-## Link
+My personal website showcasing projects, thoughts, and experiments.
 
-- [Boot.dev profile](https://www.boot.dev/u/kshatrya)
-- [I use vim btw](https://anish.iusevimbtw.com)
+### 🧪 [/labs](https://anishshrestha.com/labs)
+
+Experimental projects and interactive demos:
+
+- **Bagchal Game** - Traditional Nepali board game built with modern web technologies
+- Interactive coding challenges
+- Algorithm visualizations
+
+---
+
+## 🚀 Active Projects
+
+### 🔥 NTX (Featured)
+>
+> Next-generation transaction processing system
+
+**Tech Stack:** Go, PostgreSQL, Redis, Docker  
+**Features:** High-performance transaction handling, real-time analytics, microservices architecture
+
+---
+
+## 🧪 Labs & Experiments
+
+### 🎲 Bagchal Game
+
+**Live Demo:** [anishshrestha.com/labs/bagchal](https://anishshrestha.com/labs/bagchal)
+
+Traditional Nepali strategy board game implemented with:
+
+- **Frontend:** Svelte/SvelteKit
+- **Game Logic:** TypeScript
+- **Features:** Multiplayer support, AI opponent, move validation
+
+---
+
+## 🛠️ Tech Stack
+
+### Backend
+
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+### Frontend
+
+![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Tools & Platforms
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VoidArchive&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VoidArchive&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+</div>
+
+---
+
+## 🔗 Connect & Links
+
+- 🌐 **Website:** [anishshrestha.com](https://anishshrestha.com)
+- 🎯 **Boot.dev Profile:** [boot.dev/u/kshatrya](https://www.boot.dev/u/kshatrya)
+- 🧪 **Labs:** [anishshrestha.com/labs](https://anishshrestha.com/labs)
+
+---
+
+<div align="center">
+  <i>"Code is poetry written in logic"</i>
+</div>
+
