@@ -1,102 +1,101 @@
 # Hi, I'm Anish Shrestha 👋
 
 <div align="center">
-  <h3>Software Engineer | Building Developer Tools</h3>
+  <h3>Go Software Engineer | Building Developer Tools & SDKs</h3>
   <p>
     <a href="https://anishshrestha.com" target="_blank">
       <img src="https://img.shields.io/badge/Website-anishshrestha.com-blue?style=for-the-badge" alt="Website"/>
+    </a>
+    <a href="https://linkedin.com/in/theinanish" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-theinanish-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
     </a>
   </p>
 </div>
 
 <img align="right" height="100" width="100" src="./typing-furiously.gif" alt="gopher-eye-role">
 
-Software developer working with **Go**, **SvelteKit**, and **PostgreSQL**. I build tools that solve real problems and enjoy creating useful projects.
+Software engineer specializing in **Go**, building production-ready SDKs, APIs, and developer tools. Based in Kathmandu, Nepal 🇳🇵
 
 ---
 
-## Website & Labs
+## 🚀 Open Source Go Libraries
 
-### [anishshrestha.com](https://anishshrestha.com)
+### [nepal-payment-go](https://github.com/VoidArchive/nepal-payment-go) ⭐ 19+
+> Unified payment SDK for Nepal in Go
 
-My personal website showcasing projects, thoughts, and experiments.
+Integrates **eSewa**, **Khalti**, **ConnectIPS**, and **FonePay** with a single interface. Handles HMAC-SHA256, HMAC-SHA512, and RSA-SHA256 signatures. Zero external dependencies.
 
-### [/labs](https://anishshrestha.com/labs)
+```go
+payment, _ := nepal.New(nepal.ProviderKhalti, khalti.Config{SecretKey: "..."})
+result, _ := payment.Initiate(ctx, nepal.PaymentRequest{Amount: 1000})
+```
 
-Experimental projects and interactive demos:
+### [go-nepse](https://github.com/VoidArchive/go-nepse) ⭐ 6+
+> Type-safe Go client for the NEPSE API
 
-- **Bagchal Game** - Traditional Nepali board game built with modern web technologies
-- Interactive coding challenges
-- Algorithm visualizations
+Features automatic token handling via embedded WebAssembly (wazero), structured errors, exponential backoff retries, and clean modular design.
 
----
-
-## Active Projects
-
-### NTX (Featured)
-> Portfolio management TUI for NEPSE stock exchange
-
-**Tech Stack:** Go, SQLite, Bubbletea TUI, GoQuery  
-**Features:** CSV import from Meroshare, FIFO calculations, real-time price fetching, portfolio analytics
+```go
+client := nepse.NewClient()
+summary, _ := client.MarketSummary(ctx)
+```
 
 ---
 
-## Labs & Experiments
+## 🔧 Featured Projects
 
-### Bagchal Game
+### [NTX – Stock Research Platform](https://ntx.anishshrestha.com)
+> Financial research platform for Nepal Stock Exchange
+
+**Live:** [ntx.anishshrestha.com](https://ntx.anishshrestha.com) | **Repo:** [github.com/VoidArchive/ntx](https://github.com/VoidArchive/ntx)
+
+Full-stack application with Go backend (Protobuf APIs) and SvelteKit frontend. Features stock screener, company fundamentals, real-time market data, and portfolio tracking.
+
+### [Bagchal – Tigers & Goats](https://anishshrestha.com/labs/bagchal)
+> Traditional Nepali strategy board game
 
 **Live Demo:** [anishshrestha.com/labs/bagchal](https://anishshrestha.com/labs/bagchal)
 
-Traditional Nepali strategy board game implemented with:
-
-- **Frontend:** Svelte/SvelteKit
-- **Game Logic:** TypeScript
-- **Features:** Multiplayer support, AI opponent, move validation
+Browser implementation with AI opponent using minimax algorithm. Built with SvelteKit and TypeScript.
 
 ---
 
-## Tech Stack
+## 💻 Tech Stack
 
-### Backend
-
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-### Frontend
-
-![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Tools & Platforms
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white)
+**Languages:** Go, TypeScript, Python  
+**Backend:** PostgreSQL, SQLite, Redis, gRPC, Protobuf  
+**Frontend:** SvelteKit, Svelte 5, HTML/CSS  
+**Tools:** Docker, Linux, Vim, Git
 
 ---
 
-## GitHub Stats
+## 🌐 Website & Labs
+
+### [anishshrestha.com](https://anishshrestha.com)
+Personal website with blog posts, project showcase, and technical writing.
+
+### [/labs](https://anishshrestha.com/labs)
+Interactive experiments: Bagchal game, DSA visualizer, Conway's Game of Life, and more.
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=VoidArchive&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VoidArchive&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
 
-## Connect & Links
+## 🔗 Connect
 
 - **Website:** [anishshrestha.com](https://anishshrestha.com)
-- **Boot.dev Profile:** [boot.dev/u/kshatrya](https://www.boot.dev/u/kshatrya)
-- **Labs:** [anishshrestha.com/labs](https://anishshrestha.com/labs)
+- **LinkedIn:** [linkedin.com/in/theinanish](https://linkedin.com/in/theinanish)
+- **Blog:** [anishshrestha.com/blog](https://anishshrestha.com/blog)
+- **Boot.dev:** [boot.dev/u/kshatrya](https://www.boot.dev/u/kshatrya)
 
 ---
 
 <div align="center">
-  <i>"Code is poetry written in logic"</i>
+  <i>Building reliable software, one <code>go build</code> at a time</i>
 </div>
