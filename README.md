@@ -67,14 +67,6 @@ Interactive experiments: Bagchal game, DSA visualizer, Conway's Game of Life, an
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VoidArchive&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-</div>
-
----
-
 ## 🔗 Connect
 
 - **Website:** [anishshrestha.com](https://anishshrestha.com)
