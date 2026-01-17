@@ -1,4 +1,4 @@
-# Hi, I'm Anish Shrestha 👋
+# Hi, I'm Anish Shrestha
 
 <div align="center">
   <h3>Go Software Engineer | Building Developer Tools & SDKs</h3>
@@ -18,31 +18,19 @@ Software engineer specializing in **Go**, building production-ready SDKs, APIs, 
 
 ---
 
-## 🚀 Open Source Go Libraries
+## Open Source Go Libraries
 
-### [nepal-payment-go](https://github.com/VoidArchive/nepal-payment-go) ⭐ 19+
+### [nepal-payment-go](https://github.com/VoidArchive/nepal-payment-go)
 > Unified payment SDK for Nepal in Go
-
 Integrates **eSewa**, **Khalti**, **ConnectIPS**, and **FonePay** with a single interface. Handles HMAC-SHA256, HMAC-SHA512, and RSA-SHA256 signatures. Zero external dependencies.
 
-```go
-payment, _ := nepal.New(nepal.ProviderKhalti, khalti.Config{SecretKey: "..."})
-result, _ := payment.Initiate(ctx, nepal.PaymentRequest{Amount: 1000})
-```
-
-### [go-nepse](https://github.com/VoidArchive/go-nepse) ⭐ 6+
+### [go-nepse](https://github.com/VoidArchive/go-nepse) 
 > Type-safe Go client for the NEPSE API
-
 Features automatic token handling via embedded WebAssembly (wazero), structured errors, exponential backoff retries, and clean modular design.
-
-```go
-client := nepse.NewClient()
-summary, _ := client.MarketSummary(ctx)
-```
 
 ---
 
-## 🔧 Featured Projects
+## Featured Projects
 
 ### [NTX – Stock Research Platform](https://ntx.anishshrestha.com)
 > Financial research platform for Nepal Stock Exchange
@@ -60,7 +48,7 @@ Browser implementation with AI opponent using minimax algorithm. Built with Svel
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
 **Languages:** Go, TypeScript, Python  
 **Backend:** PostgreSQL, SQLite, Redis, gRPC, Protobuf  
@@ -69,17 +57,17 @@ Browser implementation with AI opponent using minimax algorithm. Built with Svel
 
 ---
 
-## 🌐 Website & Labs
+## Website & Labs
 
 ### [anishshrestha.com](https://anishshrestha.com)
 Personal website with blog posts, project showcase, and technical writing.
 
-### [/labs](https://anishshrestha.com/labs)
+### [labs](https://anishshrestha.com/labs)
 Interactive experiments: Bagchal game, DSA visualizer, Conway's Game of Life, and more.
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=VoidArchive&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
@@ -93,9 +81,3 @@ Interactive experiments: Bagchal game, DSA visualizer, Conway's Game of Life, an
 - **LinkedIn:** [linkedin.com/in/theinanish](https://linkedin.com/in/theinanish)
 - **Blog:** [anishshrestha.com/blog](https://anishshrestha.com/blog)
 - **Boot.dev:** [boot.dev/u/kshatrya](https://www.boot.dev/u/kshatrya)
-
----
-
-<div align="center">
-  <i>Building reliable software, one <code>go build</code> at a time</i>
-</div>
